@@ -9,10 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~47.0.12",
+    "expo": "^47.0.13",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "^0.70.5",
+    "react-native-event-listeners": "^1.0.7",
+    "react-native-numeric-input": "^1.9.1",
+    "react-native-pixel-perfect": "^1.0.2",
+    "react-native-radio-buttons-group": "^2.3.2",
+    "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
